@@ -9,7 +9,7 @@
       "android"
     ],
     "android": {
-      "package": "com.deinname.wochenplanapp",
+      "package": "com.avi.wochenplanapp",
       "versionCode": 1
     },
     "extra": {
