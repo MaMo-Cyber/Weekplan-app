@@ -1,3 +1,4 @@
+{
   "name": "wochenplan-app",
   "version": "1.0.0",
   "main": "App.js",
@@ -21,3 +22,4 @@
     "@babel/core": "^7.20.0"
   },
   "private": true
+}
