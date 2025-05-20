@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "wochenplan-app",
-    "slug": "wochenplan-app",
+    "slug": "weekplan-app",
     "version": "1.0.0",
     "sdkVersion": "51.0.0",
     "platforms": [
@@ -9,7 +9,8 @@
       "android"
     ],
     "android": {
-      "package": "com.deinname.wochenplanapp"
+      "package": "com.deinname.wochenplanapp",
+      "versionCode": 1
     },
     "extra": {
       "eas": {
