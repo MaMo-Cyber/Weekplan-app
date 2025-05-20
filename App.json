@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "wochenplan-app",
+    "slug": "wochenplan-app",
+    "version": "1.0.0",
+    "sdkVersion": "51.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "android": {
+      "package": "com.deinname.wochenplanapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "YOUR_PROJECT_ID_HERE"
+      }
+    }
+  }
+}
